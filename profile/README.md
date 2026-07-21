@@ -1,41 +1,31 @@
-# Welcome to StarScore Tech 🌟
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1a427e19-6732-4747-8966-d7703f1c9e94" 
+       width="400" 
+       height="400" 
+       alt="Starscore Aviation Logo" />
+</p>
 
-StarScore Tech is an innovative organization dedicated to building cutting-edge technology solutions and fostering collaborative development.
 
-## About Us
 
-We're passionate about creating high-quality software, sharing knowledge, and pushing the boundaries of what's possible in technology. Our projects span various domains and technologies.
+# Starscore Aviation
 
-## 🚀 What We're Building
+**An on-demand AI CFI for pilot training.**
 
-Our organization focuses on:
-- **Innovation** - Pushing technology forward with creative solutions
-- **Collaboration** - Building projects with open contribution practices
-- **Quality** - Maintaining high standards in code and documentation
+Starscore builds AI-powered flight training tools that teach ground knowledge and debrief flight performance — available anytime, at a fraction of the cost of human instructor hours.
 
-## 📚 Our Repositories
+## What we're building
 
-Check out our repositories to explore the projects we're working on. Each project is designed with quality, maintainability, and community contribution in mind.
+- **Starscore Ground** — a web app pairing a conversational AI tutor (voice or chat) with test prep, where every interaction is tagged against the real FAA ACS (Airman Certification Standards) taxonomy.
+- **Starscore Flight** *(coming next)* — a desktop app that acts as a live AI CFI during sim sessions, with post-flight debriefs that target coaching based on a student's Ground weak areas.
 
-## 🤝 Get Involved
+## Why we're different
 
-We welcome contributions from developers of all skill levels! Here's how you can get involved:
+Most tools cover either ground knowledge or flight simulation — not both, and never in a way that connects them. Starscore's core differentiator is **Ground-to-Flight continuity**: one student model, tagged to the ACS, that follows you from ground study into sim practice. No current competitor does this.
 
-1. **Explore** - Browse our repositories and find something that interests you
-2. **Learn** - Read through project documentation and code
-3. **Contribute** - Submit issues, pull requests, or suggestions
-4. **Connect** - Engage with our community and other contributors
+## Status
 
-## 📖 Resources
-
-- Visit individual repositories for detailed documentation
-- Check out our issues and discussions for ongoing conversations
-- Review our contribution guidelines in each project
-
-## 💡 Questions?
-
-Feel free to open an issue or discussion in any of our repositories. We're here to help!
+Starscore Ground is in active development. Starscore Flight is next.
 
 ---
 
-**StarScore Tech** - Building the future, one commit at a time. ✨
+Interested in following along or partnering with us? Reach out at [contact@starscore.tech](mailto:contact@starscore.tech).
